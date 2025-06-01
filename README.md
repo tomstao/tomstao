@@ -39,7 +39,7 @@ I enjoy creating efficient backends and engaging frontends, and I’m committed 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tao-su/)
 - 📧 Email: *96sutao@gmail.com*
 - 💻 [GitHub Profile](https://github.com/tomstao)
-- 📔 [My blog(it is currently under constructing...)](https://taosu.blog/)
+- 📔 [My blog(it is currently under construction...)](https://taosu.blog/)
 ---
 
 > “As long as you are learning, you are not failing.” – Bob Ross
