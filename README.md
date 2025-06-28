@@ -15,6 +15,7 @@ Currently studying at **LaGuardia Community College**, where I'm building a soli
   - 🧮 [JavaFX Calculator](https://github.com/tomstao/NumPadCalculator) – Simple GUI calculator built with JavaFX
   - 🗽 [NYC Landmarks Page](https://tomstao.github.io/SDECLass/project1/project1.html) – Static website introducing New York City landmarks
   - 🕹️ [Number Guessing Game](https://tomstao.github.io/ttpr-guessing-game/) - A simple number guessing game page
+  - 🕹️ [Tenzies Game](https://tomstao.github.io/tenzies-game/) - A Tenzies game for TS React and TailwindCSS practice
 ---
 
 ## 🚀 Currently Learning
